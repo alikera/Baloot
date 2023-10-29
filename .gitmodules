@@ -1,3 +1,6 @@
 [submodule "Baloot-Backend"]
 	path = Baloot-Backend
 	url = https://github.com/alikera/Baloot-Backend.git
+[submodule "Baloot-Frontend"]
+	path = Baloot-Frontend
+	url = https://github.com/alikera/Baloot-Frontend.git
